@@ -1,5 +1,7 @@
 # Loom
 
+![Loom Mascot](docs/assets/mascot.png)
+
 - Loom is a portable contract package for coding agents. Agents write the code. Contracts stay beside it.
 - The name comes from handlooms. A loom does the repetitive work, but the weaver chooses the pattern, checks the tension, and fixes defects before they become part of the cloth. Coding agents are similar. They can produce a lot of code quickly, but they cannot know which trade-offs matter unless an engineer states them. Contracts record those decisions and give the agent something concrete to follow and check.
 - Choose the contract layer that fits the problem. A shallow contract is faster, but it carries depth debt. You pay it later when unstated decisions make failures, changes, or extensions expensive.
@@ -38,5 +40,4 @@ code/
 
 ### Versioning and design caveats
 
--
 - Languages? :We are starting out with C++ and Go-lang as our initial starting point
