@@ -1,0 +1,3 @@
+- The first skill in the draft is <skill-name> this allows us to do the following
+    - Figures out the problem we are trying to solve and suggests the possible level of abstraction to define the contract
+    - For now within the V-0 of the skill can we define the smallest layer of scope (function level contract) as the starting point and build on top of tahat
